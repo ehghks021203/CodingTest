@@ -16,4 +16,4 @@ if __name__ == "__main__":
     boom = input()
     print(solution(str, boom))
 
-# Result: 181932KB / 492ms
+# (PyPy3) Result: 181932KB / 492ms
